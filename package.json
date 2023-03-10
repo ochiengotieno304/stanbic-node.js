@@ -1,0 +1,19 @@
+{
+  "name": "stanbic",
+  "version": "1.0.0",
+  "description": "Unofficial Node.js SDK for Stanbic Kilele APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ochiengotieno304/stanbic-node.js.git"
+  },
+  "author": "Ochieng Otieno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ochiengotieno304/stanbic-node.js/issues"
+  },
+  "homepage": "https://github.com/ochiengotieno304/stanbic-node.js#readme"
+}

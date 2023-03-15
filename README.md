@@ -98,7 +98,7 @@ Make service requests using the `Stanbic` instance
 ### Inter-Bank Transfers API via Pesalink
 
 > **Note**
-> Doing minor fixes
+> Implementing
 
 ```js
   const pesalinkPayments = Stanbic.InterBankTransfers

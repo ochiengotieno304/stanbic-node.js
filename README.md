@@ -40,7 +40,7 @@ The package needs to be configured with your app's secret and client_id from the
 ### Services
 
 Make service requests using the `Stanbic` instance
-> *Note:*
+> **Note:**
 >
 > - All methods are asynchronous
 > - All phone number params are in the international format phone number 254712345678
@@ -97,8 +97,8 @@ Make service requests using the `Stanbic` instance
 
 ### Inter-Bank Transfers API via Pesalink
 
-> *Note:*
-> *Implementing*
+> **Note**
+> Doing minor fixes
 
 ```js
   const pesalinkPayments = Stanbic.InterBankTransfers
